@@ -1,0 +1,1 @@
+include ':CIDemo_AppShell', ':news'
