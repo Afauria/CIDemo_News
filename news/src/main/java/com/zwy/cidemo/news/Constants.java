@@ -1,4 +1,4 @@
-package com.zwy.news;
+package com.zwy.cidemo.news;
 
 /**
  * 保存项目中用到的常量

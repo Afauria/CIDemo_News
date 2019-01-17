@@ -1,4 +1,4 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.main;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.jude.easyrecyclerview.adapter.BaseViewHolder;
 import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
-import com.zwy.news.R;
-import com.zwy.news.data.bean.Story;
-import com.zwy.news.detail.NewsDetailActivity;
+import com.zwy.cidemo.news.R;
+import com.zwy.cidemo.news.data.bean.Story;
+import com.zwy.cidemo.news.detail.NewsDetailActivity;
 
 public class NewsListAdapter extends RecyclerArrayAdapter<Story> {
 

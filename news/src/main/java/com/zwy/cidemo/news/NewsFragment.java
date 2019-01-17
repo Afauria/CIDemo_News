@@ -1,4 +1,4 @@
-package com.zwy.news;
+package com.zwy.cidemo.news;
 
 
 import android.os.Bundle;

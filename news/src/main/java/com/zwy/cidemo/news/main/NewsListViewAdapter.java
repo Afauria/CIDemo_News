@@ -1,4 +1,4 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.main;
 
 import android.support.v4.view.PagerAdapter;
 import android.view.View;

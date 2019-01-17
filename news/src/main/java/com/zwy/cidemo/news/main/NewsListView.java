@@ -1,4 +1,4 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.main;
 
 import android.content.Context;
 import android.support.v4.content.ContextCompat;
@@ -9,8 +9,8 @@ import android.util.AttributeSet;
 import com.jude.easyrecyclerview.EasyRecyclerView;
 import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
 import com.jude.easyrecyclerview.decoration.DividerDecoration;
-import com.zwy.news.R;
-import com.zwy.news.data.bean.StoryList;
+import com.zwy.cidemo.news.R;
+import com.zwy.cidemo.news.data.bean.StoryList;
 
 public class NewsListView extends EasyRecyclerView implements NewsListContract.View, SwipeRefreshLayout.OnRefreshListener {
     private NewsListContract.Presenter mPresenter;

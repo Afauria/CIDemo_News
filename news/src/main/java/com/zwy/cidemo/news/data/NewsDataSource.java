@@ -1,9 +1,9 @@
-package com.zwy.news.data;
+package com.zwy.cidemo.news.data;
 
 
 import com.zwy.base.base.InfoCallback;
-import com.zwy.news.data.bean.MessageDetail;
-import com.zwy.news.data.bean.StoryList;
+import com.zwy.cidemo.news.data.bean.MessageDetail;
+import com.zwy.cidemo.news.data.bean.StoryList;
 
 public interface NewsDataSource {
 

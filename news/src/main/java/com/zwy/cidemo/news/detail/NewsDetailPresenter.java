@@ -1,10 +1,10 @@
-package com.zwy.news.detail;
+package com.zwy.cidemo.news.detail;
 
 
 import com.zwy.base.base.InfoCallback;
-import com.zwy.news.data.NewsDataSource;
-import com.zwy.news.data.bean.MessageDetail;
-import com.zwy.news.data.source.RemoteNewsDataSource;
+import com.zwy.cidemo.news.data.NewsDataSource;
+import com.zwy.cidemo.news.data.bean.MessageDetail;
+import com.zwy.cidemo.news.data.source.RemoteNewsDataSource;
 
 public class NewsDetailPresenter implements NewsDetailContract.Presenter {
 

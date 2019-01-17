@@ -1,4 +1,4 @@
-package com.zwy.news.data.bean;
+package com.zwy.cidemo.news.data.bean;
 
 import java.util.List;
 

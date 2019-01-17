@@ -25,7 +25,7 @@ uploadArchives {
                 authentication(userName: getRepositoryUsername(), password: getRepositoryPassword())
             }
             pom.project {
-                version '1.0.2'
+                version '1.0.3'
                 artifactId 'module_news'
                 groupId 'com.zwy.cidemo'
                 packaging 'aar'

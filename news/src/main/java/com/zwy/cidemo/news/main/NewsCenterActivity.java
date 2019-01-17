@@ -1,4 +1,4 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.main;
 
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
@@ -7,7 +7,7 @@ import android.support.v7.widget.Toolbar;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
 import com.zwy.base.base.BaseActivity;
-import com.zwy.news.R;
+import com.zwy.cidemo.news.R;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

@@ -1,9 +1,9 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.main;
 
 import com.zwy.base.base.InfoCallback;
-import com.zwy.news.data.NewsDataSource;
-import com.zwy.news.data.bean.StoryList;
-import com.zwy.news.data.source.RemoteNewsDataSource;
+import com.zwy.cidemo.news.data.NewsDataSource;
+import com.zwy.cidemo.news.data.bean.StoryList;
+import com.zwy.cidemo.news.data.source.RemoteNewsDataSource;
 
 /**
  * <p>类说明</p>

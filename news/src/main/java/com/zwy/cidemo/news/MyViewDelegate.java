@@ -1,4 +1,4 @@
-package com.zwy.news;
+package com.zwy.cidemo.news;
 
 import android.support.annotation.Keep;
 import android.view.View;

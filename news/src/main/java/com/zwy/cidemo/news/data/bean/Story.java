@@ -1,4 +1,4 @@
-package com.zwy.news.data.bean;
+package com.zwy.cidemo.news.data.bean;
 
 /**
  * 日报新闻实体类

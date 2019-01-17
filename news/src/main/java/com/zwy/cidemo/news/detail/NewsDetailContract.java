@@ -1,20 +1,17 @@
-package com.zwy.news.main;
+package com.zwy.cidemo.news.detail;
 
 
 import com.zwy.base.base.BasePresenter;
 import com.zwy.base.base.BaseView;
-import com.zwy.news.data.bean.StoryList;
+import com.zwy.cidemo.news.data.bean.MessageDetail;
 
-/**
- * <p>类说明</p>
- */
-public interface NewsListContract {
+public interface NewsDetailContract {
 
     interface View extends BaseView<Presenter> {
 
         boolean isActive();
 
-        void showNewsList(StoryList info);
+        void showNewsDetail(MessageDetail detail);
 
     }
 
@@ -23,9 +20,9 @@ public interface NewsListContract {
         /**
          * 获取最新列表
          *
-         * @param date
+         * @param newsId 新闻id
          */
-        void getNewMessages(int page, int size, String date);
+        void getNewsDetail(String newsId);
 
     }
 

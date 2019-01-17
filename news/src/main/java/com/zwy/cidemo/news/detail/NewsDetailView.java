@@ -1,4 +1,4 @@
-package com.zwy.news.detail;
+package com.zwy.cidemo.news.detail;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -17,8 +17,8 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
-import com.zwy.news.R;
-import com.zwy.news.data.bean.MessageDetail;
+import com.zwy.cidemo.news.R;
+import com.zwy.cidemo.news.data.bean.MessageDetail;
 
 public class NewsDetailView extends FrameLayout implements NewsDetailContract.View {
 

@@ -1,14 +1,14 @@
-package com.zwy.news.data.source;
+package com.zwy.cidemo.news.data.source;
 
 
 import com.zwy.base.base.InfoCallback;
 import com.zwy.base.http.DataType;
 import com.zwy.base.http.HttpClient;
 import com.zwy.base.http.OnResultListener;
-import com.zwy.news.Constants;
-import com.zwy.news.data.NewsDataSource;
-import com.zwy.news.data.bean.MessageDetail;
-import com.zwy.news.data.bean.StoryList;
+import com.zwy.cidemo.news.Constants;
+import com.zwy.cidemo.news.data.NewsDataSource;
+import com.zwy.cidemo.news.data.bean.StoryList;
+import com.zwy.cidemo.news.data.bean.MessageDetail;
 
 public class RemoteNewsDataSource implements NewsDataSource {
 
