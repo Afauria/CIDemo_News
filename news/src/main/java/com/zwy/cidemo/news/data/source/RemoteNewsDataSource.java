@@ -1,10 +1,10 @@
 package com.zwy.cidemo.news.data.source;
 
 
-import com.zwy.base.base.InfoCallback;
-import com.zwy.base.http.DataType;
-import com.zwy.base.http.HttpClient;
-import com.zwy.base.http.OnResultListener;
+import com.zwy.cidemo.base.base.InfoCallback;
+import com.zwy.cidemo.base.http.DataType;
+import com.zwy.cidemo.base.http.HttpClient;
+import com.zwy.cidemo.base.http.OnResultListener;
 import com.zwy.cidemo.news.Constants;
 import com.zwy.cidemo.news.data.NewsDataSource;
 import com.zwy.cidemo.news.data.bean.StoryList;

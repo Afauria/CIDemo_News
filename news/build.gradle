@@ -30,6 +30,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     annotationProcessor deps.arouter_compiler
-    implementation 'com.zwy.cidemo:module_base:1.0.0'
+    implementation 'com.zwy.cidemo:module_base:1.0.4'
 }
 apply from:'upload_nexus.gradle'

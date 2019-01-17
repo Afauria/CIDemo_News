@@ -6,7 +6,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.widget.Toolbar;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
-import com.zwy.base.base.BaseActivity;
+import com.zwy.cidemo.base.base.BaseActivity;
 import com.zwy.cidemo.news.R;
 
 import java.text.SimpleDateFormat;

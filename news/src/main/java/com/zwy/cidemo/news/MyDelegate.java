@@ -3,8 +3,8 @@ package com.zwy.cidemo.news;
 import android.support.annotation.Keep;
 
 import com.orhanobut.logger.Logger;
-import com.zwy.base.base.IApplicationDelegate;
-import com.zwy.base.base.ViewManager;
+import com.zwy.cidemo.base.base.IApplicationDelegate;
+import com.zwy.cidemo.base.base.ViewManager;
 
 @Keep
 public class MyDelegate implements IApplicationDelegate {

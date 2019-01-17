@@ -1,7 +1,7 @@
 package com.zwy.cidemo.news.detail;
 
 
-import com.zwy.base.base.InfoCallback;
+import com.zwy.cidemo.base.base.InfoCallback;
 import com.zwy.cidemo.news.data.NewsDataSource;
 import com.zwy.cidemo.news.data.bean.MessageDetail;
 import com.zwy.cidemo.news.data.source.RemoteNewsDataSource;

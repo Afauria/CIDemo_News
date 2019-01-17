@@ -1,8 +1,8 @@
 package com.zwy.cidemo.news.detail;
 
 
-import com.zwy.base.base.BasePresenter;
-import com.zwy.base.base.BaseView;
+import com.zwy.cidemo.base.base.BasePresenter;
+import com.zwy.cidemo.base.base.BaseView;
 import com.zwy.cidemo.news.data.bean.MessageDetail;
 
 public interface NewsDetailContract {

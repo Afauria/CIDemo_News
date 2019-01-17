@@ -3,7 +3,7 @@ package com.zwy.cidemo.news.detail;
 import android.os.Bundle;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
-import com.zwy.base.base.BaseActivity;
+import com.zwy.cidemo.base.base.BaseActivity;
 
 @Route(path = "/news/detail")
 public class NewsDetailActivity extends BaseActivity {
