@@ -26,10 +26,10 @@ uploadArchives {
             }
             pom.project {
                 version '1.0.4'
-                artifactId 'module_news'
+                artifactId 'news'
                 groupId 'com.zwy.cidemo'
                 packaging 'aar'
-                description 'base module'
+                description 'news module'
             }
         }
     }

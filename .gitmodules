@@ -1,3 +1,4 @@
 [submodule "CIDemo_AppShell"]
 	path = CIDemo_AppShell
 	url = git@github.com:moon-lights/CIDemo_AppShell.git
+	branch = master
