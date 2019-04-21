@@ -103,7 +103,7 @@ deps.arouter_compiler = "com.alibaba:arouter-compiler:$versions.arouter_compiler
 ext.deps = deps
 
 def addRepos(RepositoryHandler handler) {
-    handler.maven { url "http://localhost:8081/repository/maven-releases/" }
+    handler.maven { url RELEASE_REPOSITORY_URL }
     handler.google()
     handler.jcenter()
     handler.mavenCentral()
